@@ -74,8 +74,8 @@
   </reporting>
 
   <scm>
-    <connection>scm:git:git://IPSERVEUR/repository1/monappli</connection>
-    <url>http://IPSERVEUR/svn/monappli-web</url>
+    <connection>scm:git:git://localHost/https://github.com/CecilebougmaIstic/mnmtpun/FirstPdf</connection>
+    <url>http://localHost/svn/FirstPdf-web</url>
   </scm>
 
   <dependencies>
